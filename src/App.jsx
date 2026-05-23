@@ -85,7 +85,7 @@ export default function App() {
             </h2>
 
             <p className="text-gray-600 leading-9 text-lg">
-              Velvet Vows is a luxury wedding registration platform
+              JJ Weddings is a luxury wedding registration platform
               designed for couples who dream of elegant and unforgettable
               celebrations. Every detail is thoughtfully crafted to
               create timeless memories filled with love and sophistication.
