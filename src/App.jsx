@@ -17,7 +17,7 @@ export default function App() {
         <nav className="absolute top-0 left-0 w-full z-20 px-8 py-6 flex justify-between items-center text-white">
 
           <h1 className="text-3xl font-semibold tracking-wide">
-            Velvet Vows
+            JJ Weddings
           </h1>
 
           <div className="hidden md:flex gap-10 text-sm uppercase tracking-widest">
@@ -44,7 +44,7 @@ export default function App() {
           </p>
 
           <h1 className="text-4xl md:text-6xl font-light mb-6 leading-tight">
-            Velvet Vows
+            JJ Weddings: Where Love Meets Elegance
           </h1>
 
           <p className="max-w-2xl text-lg text-gray-200 leading-8">
